@@ -14,7 +14,7 @@ nav {
     background-image: url(../images/header_bg.png) ,url('../images/developer.png');
    
     background-repeat: no-repeat;
-    background-position: bottom right,top   left;
+    background-position: bottom right, top   left;
 }
 
 .nav-title {
@@ -74,7 +74,7 @@ nav a {
     justify-content: space-between;
 }
 
-.banner .banner-pic {
+ .banner-pic {
     width: 500px;
 }
 
